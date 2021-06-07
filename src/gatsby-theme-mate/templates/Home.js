@@ -25,7 +25,6 @@ const Home = () => (
     <Landing />
     <Projects />
     <About />
-    <Writing />
     <Footer />
   </Layout>
 );
